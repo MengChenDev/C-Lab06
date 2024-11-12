@@ -1,4 +1,5 @@
-// main.c
+//prac06.c
+#include "../header/prac06.h"
 #include "menu.c"
 
 int main()
